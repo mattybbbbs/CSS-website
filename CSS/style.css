@@ -1,0 +1,101 @@
+.top {
+  background-color: #183661;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.middle-container {
+  background-color: #1c4b82;
+  color: #dae1e7;
+  font-family: 'Montserrat';
+  text-align: center;
+
+}
+.bottom-container {
+  background-color: #1c4b82;
+  color: #dae1e7;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+.skills {
+  text-align: center;
+  background-color: #183661;
+  color: #dae1e7;
+  font-family: 'Montserrat';
+}
+
+.profile {
+  font-family: 'Montserrat';
+  color: #dae1e7;
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+
+}
+
+
+
+body {
+  margin: 0;
+  background-color: #1c4b82;
+}
+
+h2 {
+  margin: 0;
+  padding: 50px;
+}
+
+.skill-image {
+  width: 25%;
+  float: left;
+  padding: 30px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+  padding: 25px;
+}
+
+.profile-pic {
+  height: 250px;
+  width: 250px;
+  padding-top: 5px;
+}
+
+.top-cloud {
+  padding-top: 50px;
+  position: relative;
+  left: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 50px;
+  font-family: 'Indie Flower', cursive;
+  color: #dd6b4d;
+  font-size: 150px;
+}
+
+.title {
+  font-size: 50px;
+  color: #dd6b4d;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.linkimage {
+  height: 40px;
+  width: 40px;
+}
